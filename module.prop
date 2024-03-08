@@ -1,0 +1,7 @@
+id=lowramprocesses
+name=Low Ram Processes
+version=v1
+versionCode=1
+author=@LeanHijosdesusMadres
+description=Reduce the maximum number of cached processes (10) that are kept and the maximum number of empty processes (5) that are kept.
+support=https://t.me/modulostk
